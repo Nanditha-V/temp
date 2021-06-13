@@ -1,1 +1,2 @@
 Testing git env
+Added new user
